@@ -1,2 +1,2 @@
 # MLops
-This is for MLOps Session
+This is for MLOps Session. Biginner to Advance MLops covered.
